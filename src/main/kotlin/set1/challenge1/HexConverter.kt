@@ -91,7 +91,7 @@ class HexConverter {
         }
 
         /**
-         * Converts hexadecimal number into it's ascii equivalent
+         * Converts hexadecimal number into it's ascii equivalent text
          * @param hex the hexadecimal number represented in string formal
          * @return the ascii representation of the hex number provided
          */
